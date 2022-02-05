@@ -1,9 +1,9 @@
-# 💫About Me :
-Je suis actuellement un développeur  web Freelance
-Je suis à la recherche d’expériences captivante
+# 💫 Apropos de moi :
 
-J'aide les entreprise à accroître leurs présence ligne
-Avec la création de sites web professionnels
+Je suis un développeur  web Freelance
+Je suis actuellement à la recherche d’expériences captivante
+
+J'aide les entreprises à accroître leur présence ligne avec la création de sites web professionnels
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-asani-93673b182) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@captainvince) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vincejs77) 
