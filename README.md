@@ -25,7 +25,7 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
   ![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
   ![](https://img.shields.io/badge/nuxt.js-00C58E?style=flat&logo=nuxt.js)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 - 🛢 &nbsp;Database:&nbsp;
