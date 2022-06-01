@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **vincent.asani@pm.me**
 
-- 📄 Know about my experiences on [**my website **](https://captainvince.vercel.app)
+- 📄 Know about my experiences on [**my website**](https://captainvince.vercel.app)
 
 <br/>
 <h3> 🛠 &nbsp;Connect with me</h3>
