@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Vincent Asani (CaptainVince)</h1>
 <h3>A passionate software developer, specialized in web development (websites and web applications).</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vincejs77?tab=repositories](https://github.com/vincejs77?tab=repositories)
-
-- 📝 I write articles on [captainvince.vercel.app](captainvince.vercel.app)
-
 - 📫 How to reach me **vincent.asani@pm.me**
 
 - 📄 Know about my experiences [resume.com](resume.com)
