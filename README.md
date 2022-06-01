@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Vincent Asani (CaptainVince)</h1>
-<h3>A passionate software developer, specialized in web development (websites and web applications).</h3>
+
+<h3> 🛠 &nbsp;about me</h3>
+<h4>A passionate software developer, specialized in web development (websites and web applications).</h4>
 
 - 📫 How to reach me **vincent.asani@pm.me**
 
@@ -12,7 +14,6 @@
 <a href="https://linkedin.com/in/vincent-asani-93673b182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-asani-93673b182" height="30" width="40" /></a>
 <a href="https://hashnode.com/@captainvince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@captainvince" height="30" width="40" /></a>
 </p>
-
 <br/>
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
