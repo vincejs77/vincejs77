@@ -3,14 +3,14 @@
 <h1>Hi 👋, I'm Vincent Asani (CaptainVince)</h1>
 
 <br/>
-<h3> 🛠 &nbsp;About me</h3>
+<h3> 👔 &nbsp;About me</h3>
 <h4>A passionate software developer, specialized in web development (websites and web applications).</h4>
 
 - 📫 How to reach me **vincent.asani@pm.me**
 - 📄 Know about my experiences on [**my website**](https://captainvince.vercel.app)
 
 <br/>
-<h3> 🛠 &nbsp;Connect with me</h3>
+<h3> 🤝 &nbsp;Connect with me</h3>
 
 <p align="left">
 
@@ -47,13 +47,13 @@
 - 🖥 &nbsp;Design:&nbsp;
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-- 📈 &nbsp;Devops:&nbsp;
+- ⚙️ &nbsp;Devops:&nbsp;
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=style=flat&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=style=flat&logo=kubernetes&logoColor=white)
   ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=style=flat&logo=circleci&logoColor=white)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=style=flat&logo=microsoftazure&logoColor=white)
 
-- 📈 &nbsp;Others (OS, CMS):&nbsp;
+- ➡️ &nbsp;Others (OS, CMS):&nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=style=flat&logo=microsoftazure&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
   ![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=flat&logo=directus&logoColor=white)
