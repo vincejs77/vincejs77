@@ -48,7 +48,7 @@
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=style=flat&logo=microsoftazure&logoColor=white)
 
 - 📈 &nbsp;OS:&nbsp;
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=style=flat&logo=microsoftazure&logoColor=white)
 
 <br/>
 
