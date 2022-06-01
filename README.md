@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent Asani (CaptainVince)</h1>
 <h3 align="center">A passionate software developer, specialized in web development (websites and web applications).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincejs77&label=Profile%20views&color=0e75b6&style=flat" alt="vincejs77" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincejs77" alt="vincejs77" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vincejs77" target="blank"><img src="https://img.shields.io/twitter/follow/vincejs77?logo=twitter&style=for-the-badge" alt="vincejs77" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/vincejs77?tab=repositories](https://github.com/vincejs77?tab=repositories)
 
 - 📝 I write articles on [captainvince.vercel.app](captainvince.vercel.app)
