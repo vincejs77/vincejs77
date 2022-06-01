@@ -47,8 +47,10 @@
   ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=style=flat&logo=circleci&logoColor=white)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=style=flat&logo=microsoftazure&logoColor=white)
 
-- 📈 &nbsp;OS:&nbsp;
+- 📈 &nbsp;Others (OS, CMS):&nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=style=flat&logo=microsoftazure&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white)
 
 <br/>
 
