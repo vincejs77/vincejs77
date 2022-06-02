@@ -59,7 +59,3 @@
   ![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=flat&logo=directus&logoColor=white)
 
 <br/>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincejs77&" alt="vincejs77" /></p>
-
