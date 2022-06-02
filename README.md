@@ -7,7 +7,7 @@
 <h4>A passionate software developer, specialized in web development (websites and web applications).</h4>
 
 - 📫 How to reach me : **vincent.asani@pm.me**
-- 📄 Know about my experiences : [**my resume**]([https://captainvince.vercel.app](https://drive.proton.me/urls/BT5HH4KCYG#yKJhdE7lwXj5))
+- 📄 Know about my experiences : [**my resume**](https://drive.proton.me/urls/BT5HH4KCYG#yKJhdE7lwXj5)
 
 <br/>
 <h3> 🤝 &nbsp;Connect with me</h3>
