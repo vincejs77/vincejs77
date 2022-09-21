@@ -10,7 +10,7 @@
 - 📄 Know about my experiences : [**my resume**](https://drive.proton.me/urls/YCNJ63BRWC#0MF8Gdasb7YZ)
 
 <br/>
-<h3> 🤝 &nbsp;Connect with me</h3>
+<h3> 🤝 &nbsp;Connect with me : </h3>
 
 <p align="left">
 
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/vincent-asani-93673b182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-asani-93673b182" height="30" width="40" /></a>
 
 <br/>
-<h3> 🛠 &nbsp;My Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tech Stack : </h3>
 
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
