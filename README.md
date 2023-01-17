@@ -1,7 +1,6 @@
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 <h1>Hi 👋, I'm Vincent Asani (CaptainVince)</h1>
-
 <br/>
 <h3> 👔 &nbsp;About me : </h3>
 <h4>A passionate software developer, specialized in web development (websites and web applications).</h4>
