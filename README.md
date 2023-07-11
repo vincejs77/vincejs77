@@ -3,10 +3,10 @@
 <h1>Hi 👋, I'm Vincent Asani (CaptainVince)</h1>
 <br/>
 <h3> 👔 &nbsp;About me : </h3>
-<h4>A passionate software developer, specialized in web development (websites and web applications).</h4>
+<h4>Versatile software engineer with in-depth expertise in the fields of technology, innovation, and business development.</h4>
 
-- 📫 How to reach me : **vincent.asani@pm.me**
-- 📄 Know about my experiences : [**my resume**](https://drive.proton.me/urls/QQ1BQTHXJM#g4Uoo4JCyv4X)
+- 📫 How to reach me : [**hello@vincentasani.me**](mail:hello@vincentasani.me)
+- 📄 Know about my experiences : [**my resume**](https://drive.proton.me/urls/919W3K6E3C#NbmiYJ1PAzxy)
 
 <br/>
 <h3> 🤝 &nbsp;Connect with me : </h3>
