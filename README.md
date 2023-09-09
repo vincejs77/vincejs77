@@ -16,6 +16,7 @@
 <a href="https://twitter.com/vincejs77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincejs77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vincent-asani-93673b182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-asani-93673b182" height="30" width="40" /></a>
 
+<!-- 
 <br/>
 <h3> 🛠 &nbsp;My Tech Stack : </h3>
 
@@ -57,4 +58,5 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
   ![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=flat&logo=directus&logoColor=white)
 
+-->
 <br/>
