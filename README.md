@@ -4,7 +4,7 @@
 <br/>      
 <h3> 👔 &nbsp;About me : </h3>  
 <h4>Versatile software engineer with in-depth expertise in the fields of technology, innovation, and business development.</h4> 
-  
+   
 - 📫 How to reach me : [**hello@vincentasani.me**](mailto:hello@vincentasani.me)
 - 📄 My personal website : [**www.vincentasani.me**](https://www.vincentasani.me) 
 
