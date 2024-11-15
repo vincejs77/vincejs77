@@ -10,7 +10,7 @@
 
 <!-- - 📄 Know about my experiences : [**my resume**](https://drive.proton.me/urls/919W3K6E3C#NbmiYJ1PAzxy) -->
    
-<br/>
+<br/> 
 <h3> 🤝 &nbsp;Connect with me : </h3>
 
 <p align="left">
