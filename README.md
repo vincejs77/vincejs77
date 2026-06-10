@@ -11,7 +11,7 @@
 <!-- - 📄 Know about my experiences : [**my resume**](https://drive.proton.me/urls/919W3K6E3C#NbmiYJ1PAzxy) -->
         
 <br/> 
-<h3> 🤝 &nbsp;Connect with me : </h3>
+<h3> 🤝 &nbsp;Connect with me : </h3> 
 
 <p align="left">
 <a href="https://twitter.com/vincejs77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincejs77" height="30" width="40" /></a>
