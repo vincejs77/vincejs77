@@ -2,7 +2,7 @@
           
 <h1>Hello 👋, I'm Vincent Asani (CaptainVince) </h1> 
 <br/>               
-<h3> 👔 &nbsp;About me : </h3>        
+<h3> 👔 &nbsp;About me : </h3>         
 <h4>Versatile software engineer with in-depth expertise in the fields of technology, innovation, and business development.</h4> 
    
 - 📫 How to reach me : [**hello@vincentasani.me**](mailto:hello@vincentasani.me)
